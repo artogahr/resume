@@ -1,0 +1,123 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "projects": "",
+    "awards": "",
+    "work": "Experience"
+  },
+  "basics": {
+    "name": "Artoghrul Gahramanli",
+    "email": "artogahr@gmail.com",
+    "phone": "+905446594259",
+    "website": "artogahr.com",
+    "location": {
+      "address": "Trabzon, Turkey"
+    }
+  },
+  "education": [
+    {
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's",
+      "endDate": "Present",
+      "gpa": "",
+      "institution": "Karadeniz Technical University",
+      "location": "Trabzon, Turkey",
+      "startDate": "Nov 2016"
+    }
+  ],
+  "work": [
+    {
+      "location": "Trabzon, Turkey",
+      "website": "",
+      "startDate": "Feb 2019",
+      "endDate": "Oct 2019",
+      "highlights": [
+        "Visual Recognition, Automation and 3D Printing Engineer. Used OpenCV library in C++ to develop pathfinding algorithms for our underwater drone."
+      ],
+      "company": "Creatiny",
+      "position": "Team Member"
+    },
+    {
+      "highlights": [
+        "Developed a web HelpDesk app using raw HTML and CSS, then implemented a database using PHP and MySQL."
+      ],
+      "company": "Sigma Technical Services",
+      "position": "Intern",
+      "location": "Baku, Azerbaijan",
+      "startDate": "Jul 2018",
+      "endDate": "Aug 2018"
+    },
+    {
+      "highlights": [
+        "As an executive team member I gave several classes to the students on topics like C, C++, Clean  Code, and helped organize several coding seminars and  events. "
+      ],
+      "company": "IEEE Computer Society & KTU Computer Engineering Club",
+      "position": "Commitee Member",
+      "location": "Trabzon, Turkey",
+      "startDate": "Sep 2017",
+      "endDate": "Oct 2019"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Go",
+        "HTML, CSS, JS",
+        "PHP",
+        "SQL",
+        "Bash",
+        "PowerShell ",
+        "Vimscript"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "OpenCV",
+        "Laravel"
+      ],
+      "name": "Frameworks"
+    },
+    {
+      "keywords": [
+        "GNU/Linux",
+        "Systems Adminstration",
+        "Artificial Intelligence & Machine Learning ",
+        "Electronics & Robotics",
+        "3D Printing "
+      ],
+      "name": "Technologies"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
