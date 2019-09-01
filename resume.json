@@ -1,18 +1,17 @@
 {
-  "selectedTemplate": 7,
+  "selectedTemplate": 2,
   "headings": {
-    "projects": "",
-    "awards": "",
-    "work": "Experience"
+    "work": "Experience",
+    "awards": "Awards & Certificates"
   },
   "basics": {
     "name": "Artoghrul Gahramanli",
     "email": "artogahr@gmail.com",
     "phone": "+905446594259",
-    "website": "artogahr.com",
     "location": {
       "address": "Trabzon, Turkey"
-    }
+    },
+    "website": "linkedin.com/in/artogahr/"
   },
   "education": [
     {
@@ -77,38 +76,69 @@
     },
     {
       "keywords": [
+        "------------------------"
+      ]
+    },
+    {
+      "keywords": [
         "OpenCV",
         "Laravel"
       ],
-      "name": "Frameworks"
+      "name": " Frameworks"
+    },
+    {
+      "keywords": [
+        "------------------------"
+      ]
     },
     {
       "keywords": [
         "GNU/Linux",
         "Systems Adminstration",
-        "Artificial Intelligence & Machine Learning ",
-        "Electronics & Robotics",
-        "3D Printing "
+        "Artificial Intelligence & Machine Learning, "
       ],
       "name": "Technologies"
+    },
+    {
+      "keywords": [
+        "Electronics & Robotics",
+        "3D Printing "
+      ]
     }
   ],
   "projects": [
     {
-      "name": "",
-      "description": "",
       "url": "",
       "keywords": [
-        ""
+        null
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "awarder": "Teknofest Istanbul",
+      "title": "1st Place at Unmanned Underwater Systems Competition Advanced Category",
+      "date": "Sep 2019",
+      "summary": "With our team Creatiny we created an underwater ROV and developed several Vision Recognition algorithms for it. We also researched and created several new technologies for our drone, including a new underwater cable connection system, patent pending."
+    },
+    {
+      "title": "2nd Place at AzCloud Hackathon 2019",
+      "summary": "With our team of 5 we developed a Customer Relationship Manager system for a company’s marketing department in Azerbaijan’s biggest annual hackathon. Worked on back-end developement of the app.",
+      "date": "Aug 2019",
+      "awarder": "AzInTelecom MMC"
+    },
+    {
+      "title": "IELTS 7.0",
+      "date": "Nov 2016",
+      "awarder": "British Council Baku"
+    },
+    {
+      "awarder": "------------------------"
+    },
+    {
+      "title": "IELTS 7.0",
+      "awarder": "British Council Baku",
+      "date": "Nov 2016"
     }
   ],
   "sections": [
