@@ -1,44 +1,58 @@
 {
-  "selectedTemplate": 2,
+  "selectedTemplate": 1,
   "headings": {
-    "work": "Experience",
-    "awards": "Awards & Certificates"
+    "projects": "Projects"
   },
   "basics": {
     "name": "Artoghrul Gahramanli",
     "email": "artogahr@gmail.com",
-    "phone": "+905446594259",
+    "phone": "+90 544 659 42 59",
+    "website": "linkedin.com/in/artogahr",
     "location": {
       "address": "Trabzon, Turkey"
-    },
-    "website": "linkedin.com/in/artogahr/"
+    }
   },
   "education": [
     {
-      "area": "Computer Engineering",
-      "studyType": "Bachelor's",
-      "endDate": "Present",
-      "gpa": "",
       "institution": "Karadeniz Technical University",
-      "location": "Trabzon, Turkey",
+      "location": "Trabzon",
+      "area": "Engineering",
+      "studyType": "Computer Science",
+      "endDate": "Jan 2021",
+      "gpa": "2.94",
       "startDate": "Nov 2016"
-    }
+    },
+    {}
   ],
   "work": [
     {
-      "location": "Trabzon, Turkey",
+      "company": "securKEY",
       "website": "",
-      "startDate": "Feb 2019",
-      "endDate": "Oct 2019",
+      "startDate": "Feb 2020",
       "highlights": [
-        "Visual Recognition, Automation and 3D Printing Engineer. Used OpenCV library in C++ to develop pathfinding algorithms for our underwater drone."
+        "Develped security oriented desktop software ",
+        "Used C++, C# and .NET"
       ],
-      "company": "Creatiny",
-      "position": "Team Member"
+      "position": "Junior Software Developer",
+      "location": "Istanbul, Turkey",
+      "endDate": "Jul 2020"
     },
     {
       "highlights": [
-        "Developed a web HelpDesk app using raw HTML and CSS, then implemented a database using PHP and MySQL."
+        "Helped develop Vision Recognition and Automation for the underwater ROV of the team that won the first place at Teknofest Ist. 2019",
+        "Used C++, Linux and OpenCV "
+      ],
+      "position": "Software Engineer",
+      "company": "Creatiny",
+      "location": "Trabzon, Turkey",
+      "startDate": "Feb 2019",
+      "endDate": "Oct 2019"
+    },
+    {
+      "highlights": [
+        "Internship on Database Management and Web Development. ",
+        "Successfully finished Helpdesk web app project.",
+        "Used HTML, CSS, JS, PHP and MySQL"
       ],
       "company": "Sigma Technical Services",
       "position": "Intern",
@@ -48,13 +62,8 @@
     },
     {
       "highlights": [
-        "As an executive team member I gave several classes to the students on topics like C, C++, Clean  Code, and helped organize several coding seminars and  events. "
-      ],
-      "company": "IEEE Computer Society & KTU Computer Engineering Club",
-      "position": "Commitee Member",
-      "location": "Trabzon, Turkey",
-      "startDate": "Sep 2017",
-      "endDate": "Oct 2019"
+        ""
+      ]
     }
   ],
   "skills": [
@@ -63,82 +72,92 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Python",
-        "Go",
-        "HTML, CSS, JS",
-        "PHP",
-        "SQL",
         "Bash",
-        "PowerShell ",
-        "Vimscript"
+        "PowerShell",
+        "SQL"
       ],
       "name": "Programming Languages"
     },
     {
       "keywords": [
-        "------------------------"
-      ]
-    },
-    {
-      "keywords": [
-        "OpenCV",
-        "Laravel"
-      ],
-      "name": " Frameworks"
-    },
-    {
-      "keywords": [
-        "------------------------"
-      ]
-    },
-    {
-      "keywords": [
+        ".NET",
         "GNU/Linux",
-        "Systems Adminstration",
-        "Artificial Intelligence & Machine Learning, "
+        "OpenCV",
+        "Git",
+        "TCP/IP Suite",
+        ""
       ],
-      "name": "Technologies"
+      "name": "Technologies / Frameworks"
     },
     {
       "keywords": [
-        "Electronics & Robotics",
-        "3D Printing "
-      ]
+        "Scripting",
+        "Research",
+        "Network/Server Management",
+        "Collaboration"
+      ],
+      "name": "Other Relevant Skills"
+    },
+    {
+      "keywords": [
+        "English-Excellent",
+        "Turkish-Native",
+        "Azerbaijani-Native",
+        "French-Beginner"
+      ],
+      "name": "Languages"
     }
   ],
   "projects": [
     {
-      "url": "",
       "keywords": [
-        null
-      ]
+        "C",
+        "C++",
+        ".NET Framework"
+      ],
+      "name": "File Keeper",
+      "description": "A desktop application that can keep important files permanently \"open\" in its memory so that malicious applications can't modify or delete it."
+    },
+    {
+      "keywords": [
+        "C#",
+        ".NET Core",
+        "TCP/UDP"
+      ],
+      "name": "Video Chat Application",
+      "description": "A video calling application that can run both Peer-to-Peer and through a dedicated server."
+    },
+    {
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JS",
+        "PHP",
+        "MySQL"
+      ],
+      "name": "HelpDesk Application",
+      "description": "Simple HelpDesk application with minimalist responsive web design."
     }
   ],
   "awards": [
     {
-      "awarder": "Teknofest Istanbul",
-      "title": "1st Place at Unmanned Underwater Systems Competition Advanced Category",
-      "date": "Sep 2019",
-      "summary": "With our team Creatiny we created an underwater ROV and developed several Vision Recognition algorithms for it. We also researched and created several new technologies for our drone, including a new underwater cable connection system, patent pending."
+      "title": "1st Place at Teknofest Istanbul",
+      "date": "Sept 2019",
+      "awarder": "Türkiye Teknoloji Takımı",
+      "summary": "With Underwater ROV Team Creatiny, we won 1st place at Teknofest competition Underwater ROV Advanced Category. I developed vision recognition algorithms and did R&D on our own in-house basic LIDAR technology."
     },
     {
-      "title": "2nd Place at AzCloud Hackathon 2019",
-      "summary": "With our team of 5 we developed a Customer Relationship Manager system for a company’s marketing department in Azerbaijan’s biggest annual hackathon. Worked on back-end developement of the app.",
-      "date": "Aug 2019",
-      "awarder": "AzInTelecom MMC"
+      "title": "2nd Place at AzCloud Hackathon",
+      "date": "Sept 2019",
+      "awarder": "AzCloud / Azercell ",
+      "summary": "With our team of 5 we developed an industrial CRM application. Worked on back-end and design."
     },
     {
       "title": "IELTS 7.0",
-      "date": "Nov 2016",
+      "date": "Nov 2015",
       "awarder": "British Council Baku"
-    },
-    {
-      "awarder": "------------------------"
-    },
-    {
-      "title": "IELTS 7.0",
-      "awarder": "British Council Baku",
-      "date": "Nov 2016"
     }
   ],
   "sections": [
