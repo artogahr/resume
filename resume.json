@@ -1,12 +1,12 @@
 {
   "selectedTemplate": 1,
   "headings": {
-    "projects": "Projects"
+    "projects": "Projects",
+    "awards": "Awards & Certifications"
   },
   "basics": {
     "name": "Artoghrul Gahramanli",
     "email": "artogahr@gmail.com",
-    "phone": "+90 544 659 42 59",
     "website": "linkedin.com/in/artogahr",
     "location": {
       "address": "Trabzon, Turkey"
@@ -16,86 +16,79 @@
     {
       "institution": "Karadeniz Technical University",
       "location": "Trabzon",
-      "area": "Engineering",
-      "studyType": "Computer Science",
+      "area": "Computer Engineering - Honors Degree",
       "endDate": "Jan 2021",
-      "gpa": "2.94",
-      "startDate": "Nov 2016"
-    },
-    {}
+      "startDate": "Nov 2016",
+      "studyType": "B.S."
+    }
   ],
   "work": [
+    {
+      "company": "Idea Innovation",
+      "website": "idea.com.tr",
+      "startDate": "Sep 2020",
+      "highlights": [
+        "Network architecture - set-up and administering of Switches, Routers, Firewalls and Load Balancing Systems, with strong experience using Cisco products",
+        "Firewall administration - using most NGFW features, in addition to traditional administration with strong experience using Sophos and Fortigate products",
+        "Windows Domains - Administering various Windows Server Roles according to best practices",
+        " E-mail systems - Basic administering and troubleshooting of Windows and Linux mail servers",
+        " Virtualization - Administration of VMWare virtualization products, including ESXi and vCenter"
+      ],
+      "position": "Network Engineer",
+      "location": "Trabzon, Turkey",
+      "endDate": "Present"
+    },
     {
       "company": "securKEY",
       "website": "",
       "startDate": "Feb 2020",
       "highlights": [
-        "Develped security oriented desktop software ",
-        "Used C++, C# and .NET"
+        "Developed security oriented desktop software ",
+        "Integrated basic CI/CD capabilities for .NET Applications in C++ and C#"
       ],
       "position": "Junior Software Developer",
       "location": "Istanbul, Turkey",
       "endDate": "Jul 2020"
-    },
-    {
-      "highlights": [
-        "Helped develop Vision Recognition and Automation for the underwater ROV of the team that won the first place at Teknofest Ist. 2019",
-        "Used C++, Linux and OpenCV "
-      ],
-      "position": "Software Engineer",
-      "company": "Creatiny",
-      "location": "Trabzon, Turkey",
-      "startDate": "Feb 2019",
-      "endDate": "Oct 2019"
-    },
-    {
-      "highlights": [
-        "Internship on Database Management and Web Development. ",
-        "Successfully finished Helpdesk web app project.",
-        "Used HTML, CSS, JS, PHP and MySQL"
-      ],
-      "company": "Sigma Technical Services",
-      "position": "Intern",
-      "location": "Baku, Azerbaijan",
-      "startDate": "Jul 2018",
-      "endDate": "Aug 2018"
-    },
-    {
-      "highlights": [
-        ""
-      ]
     }
   ],
   "skills": [
     {
       "level": "",
       "keywords": [
-        "C",
+        null,
         "C++",
         "C#",
         "Python",
-        "Bash",
+        "BASH",
         "PowerShell",
-        "SQL"
+        "Rust",
+        "Go"
       ],
       "name": "Programming Languages"
     },
     {
       "keywords": [
-        ".NET",
-        "GNU/Linux",
-        "OpenCV",
+        null,
+        "Ansible",
+        "Docker",
         "Git",
-        "TCP/IP Suite",
-        ""
+        "Kubernetes"
       ],
-      "name": "Technologies / Frameworks"
+      "name": "DevOps:"
     },
     {
       "keywords": [
+        "Cisco IOS",
+        "VMware",
+        "Active Directory"
+      ],
+      "name": "Network / System Administration:"
+    },
+    {
+      "keywords": [
+        "Documentation Writing",
         "Scripting",
         "Research",
-        "Network/Server Management",
         "Collaboration"
       ],
       "name": "Other Relevant Skills"
@@ -113,12 +106,17 @@
   "projects": [
     {
       "keywords": [
-        "C",
-        "C++",
-        ".NET Framework"
+        null
       ],
-      "name": "File Keeper",
-      "description": "A desktop application that can keep important files permanently \"open\" in its memory so that malicious applications can't modify or delete it."
+      "name": "Large-scale Wireless Network Architecture",
+      "description": "Designed and implemented network architecture for a company warehouse with several floors, and a dozen AP`s for each floor. Connected different floor switches to central backbone switch with redundant connections, then set-up Wireless Controller and Radiolink connection. Used Spanning-Tree and various other protocols for redundancy, mostly using Ruijie Stack."
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Backbone switch installation and MPLS set-up",
+      "description": "Installation of two Nexus switches for a large instutition, using redundant routing and layer-2 protocols. Estabilished connection to several edge locations using Cisco ISR Routers to connect to the MPLS network."
     },
     {
       "keywords": [
@@ -131,17 +129,29 @@
     },
     {
       "keywords": [
-        "HTML",
-        "CSS",
-        "JS",
-        "PHP",
-        "MySQL"
+        null,
+        "C++",
+        "Linux",
+        "OpenCV",
+        "3D printing"
       ],
-      "name": "HelpDesk Application",
-      "description": "Simple HelpDesk application with minimalist responsive web design."
+      "name": "Vision Recognition and Automation for an underwater ROV ",
+      "description": "Won the first place at Teknofest 2019"
     }
   ],
   "awards": [
+    {
+      "title": "CCNA",
+      "date": "June 2021",
+      "awarder": "Cisco Systems",
+      "summary": "Cisco Certified Network Associate"
+    },
+    {
+      "title": "SCE",
+      "summary": "Sophos Certified Engineer",
+      "awarder": "Sophos",
+      "date": "Feb 2021"
+    },
     {
       "title": "1st Place at Teknofest Istanbul",
       "date": "Sept 2019",
@@ -157,16 +167,17 @@
     {
       "title": "IELTS 7.0",
       "date": "Nov 2015",
-      "awarder": "British Council Baku"
+      "awarder": "British Council Baku",
+      "summary": "International English Language Testing System"
     }
   ],
   "sections": [
     "templates",
     "profile",
-    "education",
-    "work",
     "skills",
+    "work",
     "projects",
+    "education",
     "awards"
   ]
 }
