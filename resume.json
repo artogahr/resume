@@ -24,6 +24,18 @@
   ],
   "work": [
     {
+      "highlights": [
+        "Linux Servers - Installation and configuration of live & test servers according to best practices",
+        "Docker Environments & Containers - Configuration and administration",
+        "Security - Auditing and configuring various systems "
+      ],
+      "company": "Northern Light Media Visions",
+      "position": "SysAdmin & DevOps Engineer",
+      "location": "Estonia (Remote)",
+      "startDate": "Nov 2021",
+      "endDate": "Present"
+    },
+    {
       "company": "Idea Innovation",
       "website": "idea.com.tr",
       "startDate": "Sep 2020",
@@ -36,7 +48,7 @@
       ],
       "position": "Network Engineer",
       "location": "Trabzon, Turkey",
-      "endDate": "Present"
+      "endDate": "Nov 2021"
     },
     {
       "company": "securKEY",
@@ -71,8 +83,7 @@
         null,
         "Ansible",
         "Docker",
-        "Git",
-        "Kubernetes"
+        "Git"
       ],
       "name": "DevOps:"
     },
@@ -80,7 +91,9 @@
       "keywords": [
         "Cisco IOS",
         "VMware",
-        "Active Directory"
+        "Active Directory",
+        "TCP/IP",
+        "Firewall administration"
       ],
       "name": "Network / System Administration:"
     },
@@ -117,26 +130,6 @@
       ],
       "name": "Backbone switch installation and MPLS set-up",
       "description": "Installation of two Nexus switches for a large instutition, using redundant routing and layer-2 protocols. Estabilished connection to several edge locations using Cisco ISR Routers to connect to the MPLS network."
-    },
-    {
-      "keywords": [
-        "C#",
-        ".NET Core",
-        "TCP/UDP"
-      ],
-      "name": "Video Chat Application",
-      "description": "A video calling application that can run both Peer-to-Peer and through a dedicated server."
-    },
-    {
-      "keywords": [
-        null,
-        "C++",
-        "Linux",
-        "OpenCV",
-        "3D printing"
-      ],
-      "name": "Vision Recognition and Automation for an underwater ROV ",
-      "description": "Won the first place at Teknofest 2019"
     }
   ],
   "awards": [
@@ -152,18 +145,8 @@
       "awarder": "Sophos",
       "date": "Feb 2021"
     },
-    {
-      "title": "1st Place at Teknofest Istanbul",
-      "date": "Sept 2019",
-      "awarder": "Türkiye Teknoloji Takımı",
-      "summary": "With Underwater ROV Team Creatiny, we won 1st place at Teknofest competition Underwater ROV Advanced Category. I developed vision recognition algorithms and did R&D on our own in-house basic LIDAR technology."
-    },
-    {
-      "title": "2nd Place at AzCloud Hackathon",
-      "date": "Sept 2019",
-      "awarder": "AzCloud / Azercell ",
-      "summary": "With our team of 5 we developed an industrial CRM application. Worked on back-end and design."
-    },
+    {},
+    {},
     {
       "title": "IELTS 7.0",
       "date": "Nov 2015",
@@ -174,10 +157,10 @@
   "sections": [
     "templates",
     "profile",
-    "skills",
-    "work",
-    "projects",
     "education",
+    "work",
+    "skills",
+    "projects",
     "awards"
   ]
 }
