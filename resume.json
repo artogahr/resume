@@ -9,7 +9,7 @@
     "email": "artogahr@gmail.com",
     "website": "linkedin.com/in/artogahr",
     "location": {
-      "address": "Trabzon, Turkey"
+      "address": "Prague, Czech Republic"
     }
   },
   "education": [
@@ -25,15 +25,26 @@
   "work": [
     {
       "highlights": [
-        "Linux Servers - Installation and configuration of live & test servers according to best practices",
-        "Docker Environments & Containers - Configuration and administration",
-        "Security - Auditing and configuring various systems "
+        "Tech Support - Supporting Fortigate products at an advanced level"
+      ],
+      "company": "Fortinet",
+      "position": "TAC Engineer",
+      "location": "Prague, Czech Republic",
+      "startDate": "Aug 2022",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Server Admin - Installation and configuration of live & test Linux servers according to best practices",
+        "CI / CD - Configuring and Administering DevOps pipelines",
+        "Security - Auditing and configuring various systems ",
+        "Docker Environments & Containers - Configuration and administration"
       ],
       "company": "Northern Light Media Visions",
       "position": "SysAdmin & DevOps Engineer",
       "location": "Estonia (Remote)",
       "startDate": "Nov 2021",
-      "endDate": "Present"
+      "endDate": "Aug 2022"
     },
     {
       "company": "Idea Innovation",
@@ -41,10 +52,8 @@
       "startDate": "Sep 2020",
       "highlights": [
         "Network architecture - set-up and administering of Switches, Routers, Firewalls and Load Balancing Systems, with strong experience using Cisco products",
-        "Firewall administration - using most NGFW features, in addition to traditional administration with strong experience using Sophos and Fortigate products",
-        "Windows Domains - Administering various Windows Server Roles according to best practices",
-        " E-mail systems - Basic administering and troubleshooting of Windows and Linux mail servers",
-        " Virtualization - Administration of VMWare virtualization products, including ESXi and vCenter"
+        "Firewall Admin - Configuring and administering Sophos, Fortigate etc. firewall products",
+        "Server Admin - Windows + Linux, configuring server roles including auth, email etc."
       ],
       "position": "Network Engineer",
       "location": "Trabzon, Turkey",
@@ -55,10 +64,10 @@
       "website": "",
       "startDate": "Feb 2020",
       "highlights": [
-        "Developed security oriented desktop software ",
-        "Integrated basic CI/CD capabilities for .NET Applications in C++ and C#"
+        "Software Development - Worked on security oriented software using C++ and C# w/ .NET",
+        "CI / CD: Integrated basic CI/CD capabilities using GitHub CI/CD"
       ],
-      "position": "Junior Software Developer",
+      "position": "Software Developer",
       "location": "Istanbul, Turkey",
       "endDate": "Jul 2020"
     }
@@ -67,13 +76,13 @@
     {
       "level": "",
       "keywords": [
-        null,
+        "Rust",
         "C++",
         "C#",
-        "Python",
-        "BASH",
+        null,
+        "Bash",
         "PowerShell",
-        "Rust",
+        null,
         "Go"
       ],
       "name": "Programming Languages"
@@ -119,17 +128,19 @@
   "projects": [
     {
       "keywords": [
-        null
+        "C++",
+        "C#",
+        ".NET"
       ],
-      "name": "Large-scale Wireless Network Architecture",
-      "description": "Designed and implemented network architecture for a company warehouse with several floors, and a dozen AP`s for each floor. Connected different floor switches to central backbone switch with redundant connections, then set-up Wireless Controller and Radiolink connection. Used Spanning-Tree and various other protocols for redundancy, mostly using Ruijie Stack."
+      "name": "securKEY",
+      "description": "Worked on both low-level and user-facing side of SecurKey security product, gained experience working on legacy and unmaintained codebase."
     },
     {
       "keywords": [
         null
       ],
-      "name": "Backbone switch installation and MPLS set-up",
-      "description": "Installation of two Nexus switches for a large instutition, using redundant routing and layer-2 protocols. Estabilished connection to several edge locations using Cisco ISR Routers to connect to the MPLS network."
+      "name": "Realtime Videochat application",
+      "description": "Using C++ and .NET, created a realtime Video calling application that had UDP Punchole capability, and could do both Client-to-Client and Client-Server-Client modes of enabling a video call. Gained experience on optimization of realtime applicaitons, network stack, compression of realtime data etc."
     }
   ],
   "awards": [
