@@ -1,8 +1,7 @@
 {
   "selectedTemplate": 1,
   "headings": {
-    "projects": "Projects",
-    "awards": "Awards & Certifications"
+    "projects": "Projects"
   },
   "basics": {
     "name": "Artoghrul Gahramanli",
@@ -70,6 +69,20 @@
       "position": "Software Developer",
       "location": "Istanbul, Turkey",
       "endDate": "Jul 2020"
+    },
+    {
+      "highlights": [
+        "Mentored freshmen and upper class studens on topics such as Linux, Git, Software Design",
+        "Taught classes on C and C++ "
+      ],
+      "company": "KTU CEC",
+      "position": "Mentor",
+      "location": "Trabzon, Turkey"
+    },
+    {
+      "highlights": [
+        ""
+      ]
     }
   ],
   "skills": [
@@ -77,9 +90,9 @@
       "level": "",
       "keywords": [
         "Rust",
+        "C",
         "C++",
         "C#",
-        null,
         "Bash",
         "PowerShell",
         null,
@@ -94,15 +107,16 @@
         "Docker",
         "Git"
       ],
-      "name": "DevOps:"
+      "name": "DevOps"
     },
     {
       "keywords": [
         "Cisco IOS",
         "VMware",
-        "Active Directory",
+        null,
         "TCP/IP",
-        "Firewall administration"
+        "FortiGate",
+        "Sophos"
       ],
       "name": "Network / System Administration:"
     },
@@ -123,9 +137,35 @@
         "French-Beginner"
       ],
       "name": "Languages"
+    },
+    {
+      "keywords": [
+        "IELTS",
+        "CCNA",
+        "SCE"
+      ],
+      "name": "Certifications: "
     }
   ],
   "projects": [
+    {
+      "keywords": [
+        "C",
+        "C++",
+        ".NET"
+      ],
+      "name": "Machine Learning Classification Application",
+      "description": "As a University project, built an application that is able to learn from existing data and classify new data points. Used C, C++ and .NET"
+    },
+    {
+      "keywords": [
+        "C++",
+        ".NET",
+        ""
+      ],
+      "name": "Realtime Videochat application",
+      "description": "Using C++ and .NET, created a realtime Video calling application that had UDP Punchole capability, and could do both Client-to-Client and Client-Server-Client modes of enabling a video call. Gained experience on optimization of realtime applicaitons, network stack, compression of realtime data etc."
+    },
     {
       "keywords": [
         "C++",
@@ -134,36 +174,14 @@
       ],
       "name": "securKEY",
       "description": "Worked on both low-level and user-facing side of SecurKey security product, gained experience working on legacy and unmaintained codebase."
-    },
-    {
-      "keywords": [
-        null
-      ],
-      "name": "Realtime Videochat application",
-      "description": "Using C++ and .NET, created a realtime Video calling application that had UDP Punchole capability, and could do both Client-to-Client and Client-Server-Client modes of enabling a video call. Gained experience on optimization of realtime applicaitons, network stack, compression of realtime data etc."
     }
   ],
   "awards": [
-    {
-      "title": "CCNA",
-      "date": "June 2021",
-      "awarder": "Cisco Systems",
-      "summary": "Cisco Certified Network Associate"
-    },
-    {
-      "title": "SCE",
-      "summary": "Sophos Certified Engineer",
-      "awarder": "Sophos",
-      "date": "Feb 2021"
-    },
     {},
     {},
-    {
-      "title": "IELTS 7.0",
-      "date": "Nov 2015",
-      "awarder": "British Council Baku",
-      "summary": "International English Language Testing System"
-    }
+    {},
+    {},
+    {}
   ],
   "sections": [
     "templates",
