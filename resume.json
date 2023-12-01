@@ -14,11 +14,17 @@
   "education": [
     {
       "institution": "Karadeniz Technical University",
-      "location": "Trabzon",
-      "area": "Computer Engineering - Honors Degree",
+      "location": "Trabzon, Turkey",
+      "area": " in Computer Engineering - Honors Degree",
       "endDate": "Jan 2021",
       "startDate": "Nov 2016",
-      "studyType": "B.S."
+      "studyType": "BSc"
+    },
+    {
+      "startDate": "Sep 2022",
+      "endDate": "Present",
+      "area": "in Computer Engineering",
+      "studyType": "MSc "
     }
   ],
   "work": [
@@ -36,18 +42,19 @@
     },
     {
       "highlights": [
-        "Tech Support - Supporting Fortigate products at an advanced level"
+        "Tech Support - Supporting Fortigate products at an advanced level",
+        "Troubleshooting - Figuring out solutions to customers' network problems that require advanced investigation. Proposing solutions and improvement"
       ],
       "company": "Fortinet",
       "position": "TAC Engineer",
       "location": "Prague, Czech Republic",
       "startDate": "Aug 2022",
-      "endDate": "Present"
+      "endDate": "June 2023"
     },
     {
       "highlights": [
         "Server Admin - Installation and configuration of live & test Linux servers according to best practices",
-        "CI / CD - Configuring and Administering DevOps pipelines",
+        "CI/CD - Configuring and Administering DevOps pipelines",
         "Security - Auditing and configuring various systems ",
         "Docker Environments & Containers - Configuration and administration"
       ],
@@ -76,7 +83,7 @@
       "startDate": "Feb 2020",
       "highlights": [
         "Software Development - Worked on security oriented software using C++ and C# w/ .NET",
-        "CI / CD: Integrated basic CI/CD capabilities using GitHub CI/CD"
+        "CI/CD: Integrated basic CI/CD capabilities using GitHub CI/CD"
       ],
       "position": "Software Developer",
       "location": "Istanbul, Turkey",
@@ -138,7 +145,7 @@
     },
     {
       "keywords": [
-        "IELTS",
+        null,
         "CCNA",
         "SCE"
       ],
