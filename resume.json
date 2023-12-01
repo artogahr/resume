@@ -24,6 +24,18 @@
   "work": [
     {
       "highlights": [
+        null,
+        "DevOps - Helping developers with deployments, working with projects that use Jenkins, TeamCity, BitBucket, Nexus and alike.  ",
+        "Development Services - Supporting other development tooling,  such as Jira, Confluence etc. "
+      ],
+      "company": "Barclays",
+      "position": "DevOps Support L2",
+      "location": "Prague, Czech Republic",
+      "startDate": "June 2023",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
         "Tech Support - Supporting Fortigate products at an advanced level"
       ],
       "company": "Fortinet",
@@ -69,20 +81,6 @@
       "position": "Software Developer",
       "location": "Istanbul, Turkey",
       "endDate": "Jul 2020"
-    },
-    {
-      "highlights": [
-        "Mentored freshmen and upper class studens on topics such as Linux, Git, Software Design",
-        "Taught classes on C and C++ "
-      ],
-      "company": "KTU CEC",
-      "position": "Mentor",
-      "location": "Trabzon, Turkey"
-    },
-    {
-      "highlights": [
-        ""
-      ]
     }
   ],
   "skills": [
