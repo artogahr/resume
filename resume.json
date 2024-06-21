@@ -104,7 +104,8 @@
         null,
         "Ansible",
         "Docker",
-        "Git"
+        "Git",
+        "CI/CD"
       ],
       "name": "DevOps"
     },
@@ -149,6 +150,14 @@
   "projects": [
     {
       "keywords": [
+        "Rust"
+      ],
+      "name": "Ray Tracer",
+      "description": "A ray tracer implemented fully in Rust, based on Peter Shirley's \"Ray Tracing in One Weekend\" C++ series. It features depth of field, a basic material system and multi-threaded rendering.",
+      "url": "https://github.com/artogahr/ray-tracer"
+    },
+    {
+      "keywords": [
         "C",
         "C++",
         ".NET"
@@ -163,16 +172,7 @@
         ""
       ],
       "name": "Realtime Videochat application",
-      "description": "Using C++ and .NET, created a realtime Video calling application that had UDP Punchole capability, and could do both Client-to-Client and Client-Server-Client modes of enabling a video call. Gained experience on optimization of realtime applicaitons, network stack, compression of realtime data etc."
-    },
-    {
-      "keywords": [
-        "C++",
-        "C#",
-        ".NET"
-      ],
-      "name": "securKEY",
-      "description": "Worked on both low-level and user-facing side of SecurKey security product, gained experience working on legacy and unmaintained codebase."
+      "description": "Using C++ and .NET, created a realtime Video calling application that had UDP Hole Punching capability, and could do both Client-to-Client and Client-Server-Client modes of enabling a video call. Gained experience on optimization of realtime applicaitons, network stack, compression of realtime data etc."
     }
   ],
   "awards": [
