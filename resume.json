@@ -25,7 +25,7 @@
     {
       "highlights": [
         null,
-        "DevOps - Helping developers with deployments, working with projects that use Jenkins, TeamCity, BitBucket, Nexus and alike.  ",
+        "DevOps - Helping developers with deployments, administering CI/CD tools like Jenkins, TeamCity, BitBucket, GitLab, Nexus and alike.  ",
         "Development Services - Supporting other development tooling,  such as Jira, Confluence etc. "
       ],
       "company": "Barclays",
@@ -77,7 +77,7 @@
       "startDate": "Feb 2020",
       "highlights": [
         "Software Development - Worked on security oriented software using C++ and C# w/ .NET",
-        "CI/CD: Integrated basic CI/CD capabilities using GitHub CI/CD"
+        "CI/CD: Integrated CI/CD capabilities using GitHub Pipelines"
       ],
       "position": "Software Developer",
       "location": "Istanbul, Turkey",
@@ -186,9 +186,9 @@
     "templates",
     "profile",
     "education",
+    "projects",
     "work",
     "skills",
-    "projects",
     "awards"
   ]
 }
