@@ -18,7 +18,15 @@
       "area": " in Computer Engineering - Honors Degree",
       "endDate": "Jan 2021",
       "startDate": "Nov 2016",
-      "studyType": "BSc"
+      "studyType": "Bachelor's"
+    },
+    {
+      "institution": "Czech University of Life Sciences",
+      "location": "Prague, Czech Republic",
+      "area": "Informatics",
+      "studyType": "Master's in",
+      "startDate": "Sep 2024",
+      "endDate": "Ongoing"
     }
   ],
   "work": [
@@ -47,10 +55,9 @@
     },
     {
       "highlights": [
-        "Server Admin - Installation and configuration of live & test Linux servers according to best practices",
+        "Server Admin - Installation and configuration of live & test Linux servers, Docker environments",
         "CI/CD - Configuring and Administering DevOps pipelines",
-        "Security - Auditing and configuring various systems ",
-        "Docker Environments & Containers - Configuration and administration"
+        "Security - Auditing and configuring various systems "
       ],
       "company": "Northern Light Media Visions",
       "position": "SysAdmin & DevOps Engineer",
