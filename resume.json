@@ -32,12 +32,11 @@
   "work": [
     {
       "highlights": [
-        null,
-        "DevOps - Helping developers with deployments, administering CI/CD tools like Jenkins, TeamCity, BitBucket, GitLab, Nexus and alike.  ",
-        "Development Services - Supporting other development tooling,  such as Jira, Confluence etc. "
+        "Software - Working on internal software supporting a 700 people Quants dev team",
+        "DevOps - Helping developers with deployments, administering CI/CD tools like Jenkins, TeamCity, BitBucket, GitLab, Nexus, Jira etc."
       ],
       "company": "Barclays",
-      "position": "DevOps Support L2",
+      "position": "Senior Software / DevOps Engineer",
       "location": "Prague, Czech Republic",
       "startDate": "June 2023",
       "endDate": "Present"
@@ -45,7 +44,7 @@
     {
       "highlights": [
         "Tech Support - Supporting Fortigate products at an advanced level",
-        "Troubleshooting - Figuring out solutions to customers' network problems that require advanced investigation. Proposing solutions and improvement"
+        "Troubleshooting - Figuring out solutions to customers' network problems that require advanced investigation, proposing solutions and improvements"
       ],
       "company": "Fortinet",
       "position": "TAC Engineer",
@@ -71,7 +70,6 @@
       "startDate": "Sep 2020",
       "highlights": [
         "Network architecture - set-up and administering of Switches, Routers, Firewalls and Load Balancing Systems, with strong experience using Cisco products",
-        "Firewall Admin - Configuring and administering Sophos, Fortigate etc. firewall products",
         "Server Admin - Windows + Linux, configuring server roles including auth, email etc."
       ],
       "position": "Network Engineer",
@@ -83,8 +81,7 @@
       "website": "",
       "startDate": "Feb 2020",
       "highlights": [
-        "Software Development - Worked on security oriented software using C++ and C# w/ .NET",
-        "CI/CD: Integrated CI/CD capabilities using GitHub Pipelines"
+        "Software Development - Worked on security oriented software using C++ and C# w/ .NET"
       ],
       "position": "Software Developer",
       "location": "Istanbul, Turkey",
@@ -108,7 +105,7 @@
     },
     {
       "keywords": [
-        null,
+        "Chef",
         "Ansible",
         "Docker",
         "Git",
@@ -175,8 +172,8 @@
     {
       "keywords": [
         "C++",
-        ".NET",
-        ""
+        "C#",
+        ".NET"
       ],
       "name": "Realtime Videochat application",
       "description": "Using C++ and .NET, created a realtime Video calling application that had UDP Hole Punching capability, and could do both Client-to-Client and Client-Server-Client modes of enabling a video call. Gained experience on optimization of realtime applicaitons, network stack, compression of realtime data etc."
