@@ -6,7 +6,7 @@
   "basics": {
     "name": "Artoghrul Gahramanli",
     "email": "artogahr@gmail.com",
-    "website": "artogahr.bearblog.dev",
+    "website": "gahr.io",
     "location": {
       "address": "Prague, Czech Republic"
     }
@@ -96,9 +96,9 @@
         "C",
         "C++",
         "C#",
+        "Python",
         "Bash",
         "PowerShell",
-        null,
         "Go"
       ],
       "name": "Programming Languages"
