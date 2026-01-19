@@ -26,7 +26,8 @@
       "area": "Informatics",
       "studyType": "Master's in",
       "startDate": "Sep 2024",
-      "endDate": "Ongoing"
+      "gpa": "4.0",
+      "endDate": "May 2026"
     }
   ],
   "work": [
@@ -190,9 +191,9 @@
     "templates",
     "profile",
     "education",
-    "projects",
     "work",
     "skills",
+    "projects",
     "awards"
   ]
 }
