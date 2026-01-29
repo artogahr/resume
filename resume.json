@@ -155,20 +155,21 @@
   "projects": [
     {
       "keywords": [
+        "Rust",
+        "eBPF",
+        "Wireguard"
+      ],
+      "name": "Lockne",
+      "url": "https://github.com/artogahr/lockne",
+      "description": "Dynamic Per-Application VPN Tunneling, alows you to configure the packets from a process to only be able to go through a specific Wireguard tunnel.  Master's thesis project."
+    },
+    {
+      "keywords": [
         "Rust"
       ],
       "name": "Ray Tracer",
       "description": "A ray tracer implemented fully in Rust, based on Peter Shirley's \"Ray Tracing in One Weekend\" C++ series. It features depth of field, a basic material system and multi-threaded rendering.",
       "url": "https://github.com/artogahr/ray-tracer"
-    },
-    {
-      "keywords": [
-        "C",
-        "C++",
-        ".NET"
-      ],
-      "name": "Machine Learning Classification Application",
-      "description": "As a University project, built an application that is able to learn from existing data and classify new data points. Used C, C++ and .NET"
     },
     {
       "keywords": [
